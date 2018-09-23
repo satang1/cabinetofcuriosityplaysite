@@ -4,6 +4,7 @@ author: "Yuqing Lu"
 date: '2018-09-22'
 layout: post
 description: Welcome to a new blog that explores natural history data.
+img: whale.jpeg
 ---
 
 ## Biography 
