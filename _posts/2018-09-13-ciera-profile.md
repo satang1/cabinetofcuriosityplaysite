@@ -28,7 +28,7 @@ I choose the [Okapi](https://en.wikipedia.org/wiki/Okapi), because it's looks li
 Okapis are part of the [Giraffidae](https://en.wikipedia.org/wiki/Giraffidae) family, and are thus closely related to giraffes! In fact, these two species are the only living members of the family. What's cool about them are that both giraffes and (male) Okapis have these horn-like protuberances called [ossicones](https://en.wikipedia.org/wiki/Ossicone). Female Okapis, on the other hand, are special and have hair whorls!
 
 
-<center><p><img src="../assets/img/giraffe.jpeg" alt=""></p></center>
+<img src=" ../assets/img/giraffe.jpg" alt="">
 
  
 ## References
