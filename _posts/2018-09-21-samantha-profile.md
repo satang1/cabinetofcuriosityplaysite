@@ -25,6 +25,6 @@ I chose the [Glaucus atlanticus](https://en.wikipedia.org/wiki/Glaucus_atlanticu
  
 ## References
 
-1. Glaucus atlanticus Img 1 [Link to image](https://en.wikipedia.org/wiki/Glaucus_atlanticus#/media/File:Blue_dragon-glaucus_atlanticus_(8599051974).jpg)
 
+1. Glaucus atlanticus Img 1 [Link to image](https://en.wikipedia.org/wiki/Glaucus_atlanticus#/media/File:Blue_dragon-glaucus_atlanticus_(8599051974).jpg)
 2. Glaucus atlanticus Img 2 [Link to page](http://boredomtherapy.com/blue-dragon-sea-slug/)
